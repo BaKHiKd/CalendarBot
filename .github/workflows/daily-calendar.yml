@@ -2,8 +2,6 @@
 name: Daily Persian Calendar
 
 on:
-  schedule:
-    - cron: "45 10 * * *"
   workflow_dispatch:
 
 jobs:
