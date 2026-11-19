@@ -3,7 +3,7 @@ name: Daily Persian Calendar
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "10 8 * * *"
       timezone: "Asia/Tehran"
   workflow_dispatch:
 
